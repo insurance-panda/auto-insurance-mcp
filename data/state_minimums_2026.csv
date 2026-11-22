@@ -1,0 +1,52 @@
+state,abbreviation,mandatory_insurance,liability_shorthand,bodily_injury_per_person_usd,bodily_injury_per_accident_usd,property_damage_per_accident_usd,additional_requirements,notes,compare_url
+Alabama,AL,True,25/50/25,25000,50000,25000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Alaska,AK,True,50/100/25,50000,100000,25000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Arizona,AZ,True,25/50/15,25000,50000,15000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Arkansas,AR,True,25/50/25,25000,50000,25000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+California,CA,True,30/60/15,30000,60000,15000,Not required,"Updated Jan 1, 2025 from 15/30/5 to 30/60/15.",https://www.insurancepanda.com/car-insurance-comparison/
+Colorado,CO,True,25/50/15,25000,50000,15000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Connecticut,CT,True,25/50/25,25000,50000,25000,"UM/UIM BI: $25,000/$50,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Delaware,DE,True,25/50/10,25000,50000,10000,"PIP: $15,000 per person / $30,000 per accident",,https://www.insurancepanda.com/car-insurance-comparison/
+District of Columbia,DC,True,25/50/10,25000,50000,10000,"UM BI: $25,000/$50,000; UMPD: $5,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Florida,FL,True,10/20/10,10000,20000,10000,"PIP: $10,000","Standard registration requires $10,000 PIP and $10,000 PD; 10/20 BI applies under Financial Responsibility Law.",https://www.insurancepanda.com/car-insurance-comparison/
+Georgia,GA,True,25/50/25,25000,50000,25000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Hawaii,HI,True,20/40/10,20000,40000,10000,"PIP: $10,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Idaho,ID,True,25/50/15,25000,50000,15000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Illinois,IL,True,25/50/20,25000,50000,20000,"UM BI: $25,000/$50,000; UMPD: $5,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Indiana,IN,True,25/50/25,25000,50000,25000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Iowa,IA,True,20/40/15,20000,40000,15000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Kansas,KS,True,25/50/25,25000,50000,25000,"UM BI: $25,000/$50,000; PIP: $4,500",,https://www.insurancepanda.com/car-insurance-comparison/
+Kentucky,KY,True,25/50/25,25000,50000,25000,Not required (PIP optional opt-out),,https://www.insurancepanda.com/car-insurance-comparison/
+Louisiana,LA,True,15/30/25,15000,30000,25000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Maine,ME,True,50/100/25,50000,100000,25000,"MedPay: $2,000; UM BI: $50,000/$100,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Maryland,MD,True,30/60/15,30000,60000,15000,"UM BI: $30,000/$60,000; UMPD: $15,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Massachusetts,MA,True,25/50/30,25000,50000,30000,"UM/UIM BI: $20,000/$40,000; PIP: $8,000",Limits updated in 2025 to 25/50/30.,https://www.insurancepanda.com/car-insurance-comparison/
+Michigan,MI,True,50/100/10,50000,100000,10000,"Property Protection: $1,000,000; PIP: $250,000 (standard tier)",,https://www.insurancepanda.com/car-insurance-comparison/
+Minnesota,MN,True,30/60/10,30000,60000,10000,"UM/UIM BI: $25,000/$50,000; PIP: $40,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Mississippi,MS,True,25/50/25,25000,50000,25000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Missouri,MO,True,25/50/25,25000,50000,25000,"UM/UIM BI: $25,000/$50,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Montana,MT,True,25/50/20,25000,50000,20000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Nebraska,NE,True,25/50/25,25000,50000,25000,"UM/UIM BI: $25,000/$50,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Nevada,NV,True,25/50/20,25000,50000,20000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+New Hampshire,NH,False,25/50/25,25000,50000,25000,"If insured: MedPay $1,000; UM/UIM BI $25,000/$50,000",Only US state not requiring auto insurance if financial responsibility is met; limits apply if purchasing a policy.,https://www.insurancepanda.com/car-insurance-comparison/
+New Jersey,NJ,True,35/70/25,35000,70000,25000,"UM BI: $25,000/$50,000; UMPD: $25,000; UIMPD: $25,000; PIP: $15,000",Standard policy minimums increased in 2026.,https://www.insurancepanda.com/car-insurance-comparison/
+New Mexico,NM,True,25/50/10,25000,50000,10000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+New York,NY,True,25/50/10,25000,50000,10000,"UM/UIM BI: $25,000/$50,000; PIP: $50,000",,https://www.insurancepanda.com/car-insurance-comparison/
+North Carolina,NC,True,50/100/50,50000,100000,50000,"UM BI: $50,000/$100,000; UMPD: $50,000","Updated July 1, 2025 from 30/60/25 to 50/100/50.",https://www.insurancepanda.com/car-insurance-comparison/
+North Dakota,ND,True,25/50/25,25000,50000,25000,"UM/UIM BI: $25,000/$50,000; PIP: $30,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Ohio,OH,True,25/50/25,25000,50000,25000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Oklahoma,OK,True,25/50/25,25000,50000,25000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Oregon,OR,True,25/50/20,25000,50000,20000,"UM BI: $25,000/$50,000; PIP: $15,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Pennsylvania,PA,True,15/30/5,15000,30000,5000,"PIP (Medical Benefits): $5,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Rhode Island,RI,True,25/50/25,25000,50000,25000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+South Carolina,SC,True,25/50/25,25000,50000,25000,"UM BI: $25,000/$50,000; UMPD: $25,000",,https://www.insurancepanda.com/car-insurance-comparison/
+South Dakota,SD,True,25/50/25,25000,50000,25000,"UM/UIM BI: $25,000/$50,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Tennessee,TN,True,25/50/25,25000,50000,25000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Texas,TX,True,30/60/25,30000,60000,25000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+Utah,UT,True,30/65/25,30000,65000,25000,"PIP: $3,000","Updated Jan 1, 2025 from 25/65/15 to 30/65/25.",https://www.insurancepanda.com/car-insurance-comparison/
+Vermont,VT,True,25/50/10,25000,50000,10000,"UM/UIM BI: $50,000/$100,000; UMPD: $10,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Virginia,VA,True,50/100/25,50000,100000,25000,"UM BI: $50,000/$100,000; UMPD: $25,000","Uninsured motorist fee option eliminated July 2024; limits rose to 50/100/25 Jan 1, 2025.",https://www.insurancepanda.com/car-insurance-comparison/
+Washington,WA,True,25/50/10,25000,50000,10000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/
+West Virginia,WV,True,25/50/25,25000,50000,25000,"UM BI: $25,000/$50,000; UMPD: $25,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Wisconsin,WI,True,25/50/10,25000,50000,10000,"UM BI: $25,000/$50,000",,https://www.insurancepanda.com/car-insurance-comparison/
+Wyoming,WY,True,25/50/20,25000,50000,20000,Not required,,https://www.insurancepanda.com/car-insurance-comparison/

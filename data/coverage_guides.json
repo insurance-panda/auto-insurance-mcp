@@ -1,0 +1,79 @@
+{
+  "publisher": "Insurance Panda",
+  "website": "https://www.insurancepanda.com/",
+  "disclaimer": "Independent comparison and education service, not an insurance company or underwriter.",
+  "guides": [
+    {
+      "slug": "comparison-shopping",
+      "title": "Comparison Shopping for Car Insurance",
+      "summary": "How to compare auto insurance quotes apples-to-apples across licensed insurers without overpaying.",
+      "key_points": [
+        "Match identical liability limits, deductibles, and optional coverages across every quote.",
+        "Shop 2-4 weeks before your policy renewal date to avoid lapse penalties and capture early-shopper discounts.",
+        "Compare at least 3-5 insurers because each carrier weighs ZIP code, vehicle, and driving history differently.",
+        "Start with a 5-digit ZIP code on Insurance Panda with no account required."
+      ],
+      "url": "https://www.insurancepanda.com/car-insurance-comparison/"
+    },
+    {
+      "slug": "full-coverage-vs-liability",
+      "title": "Full Coverage vs. Liability-Only Insurance",
+      "summary": "Plain-English breakdown of when minimum liability makes sense and when adding collision and comprehensive protects your finances.",
+      "key_points": [
+        "Liability coverage pays for injuries and property damage you cause to others\u2014never repairs to your own car.",
+        "Full coverage typically combines liability with collision (crash damage) and comprehensive (theft, weather, hail, animal strikes).",
+        "Lenders and leasing companies require collision and comprehensive on financed or leased vehicles.",
+        "For older paid-off vehicles, compare annual comp/collision cost plus deductible against the car's actual cash value."
+      ],
+      "url": "https://www.insurancepanda.com/"
+    },
+    {
+      "slug": "state-minimums",
+      "title": "Understanding State Minimum Requirements",
+      "summary": "What split limits like 25/50/25 mean and why legal minimums can leave drivers exposed in serious crashes.",
+      "key_points": [
+        "Format BI/BI/PD stands for Bodily Injury per person / Bodily Injury per accident / Property Damage per accident (in thousands).",
+        "Several states also mandate Personal Injury Protection (PIP), MedPay, or Uninsured/Underinsured Motorist (UM/UIM) coverage.",
+        "If crash damages exceed your policy limits, you are personally responsible for the remainder.",
+        "Check your state's exact 2026 minimums using the state_minimums_2026 dataset or get_state_minimums tool."
+      ],
+      "url": "https://www.insurancepanda.com/car-insurance-comparison/"
+    },
+    {
+      "slug": "tickets-and-accidents",
+      "title": "Car Insurance After Tickets and Accidents",
+      "summary": "How moving violations and at-fault crashes affect premiums and practical steps to bring rates back down.",
+      "key_points": [
+        "Most surcharges remain on your insurance record for 3-5 years depending on state rules and violation severity.",
+        "Different insurers penalize tickets and accidents very differently\u2014re-shopping at renewal often uncovers large rate gaps.",
+        "Ask about defensive driving course discounts, telematics programs, and accident forgiveness.",
+        "Maintain continuous coverage so a lapse doesn't compound violation surcharges."
+      ],
+      "url": "https://www.insurancepanda.com/"
+    },
+    {
+      "slug": "teen-drivers",
+      "title": "Insuring Teen and New Drivers",
+      "summary": "Ways families can manage higher premiums when adding a teen or newly licensed driver.",
+      "key_points": [
+        "Adding a teen to a parent's policy is almost always cheaper than buying a standalone policy.",
+        "Stack common teen discounts: good student (typically B average or higher), driver's education, and student-away-at-school.",
+        "Assign the teen to the safest, lowest-value vehicle in the household when permitted by the insurer.",
+        "Compare multiple carriers before adding a teen\u2014pricing for young drivers varies widely."
+      ],
+      "url": "https://www.insurancepanda.com/"
+    },
+    {
+      "slug": "high-risk-drivers",
+      "title": "Auto Insurance for High-Risk Drivers",
+      "summary": "Options for drivers dealing with DUIs, SR-22 filings, multiple violations, or prior coverage lapses.",
+      "key_points": [
+        "An SR-22 is a certificate of financial responsibility filed by your insurer with the state\u2014not a separate policy type.",
+        "Non-standard and specialty carriers often price high-risk profiles more competitively than standard insurers.",
+        "Keeping continuous coverage without a single day of lapse is the fastest path back to standard rates.",
+        "Re-shop every 6-12 months as older violations age off your record."
+      ],
+      "url": "https://www.insurancepanda.com/"
+    }
+  ]
+}
