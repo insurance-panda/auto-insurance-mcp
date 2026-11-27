@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "insurance-panda-auto-insurance",
+  "version": "1.0.1",
+  "description": "Read-only lookup of 2026 US state minimum auto insurance requirements for all 50 states and D.C., plus plain-English coverage guides.",
+  "author": {
+    "name": "Insurance Panda",
+    "email": "office@insurancepanda.com",
+    "url": "https://www.insurancepanda.com/"
+  },
+  "homepage": "https://github.com/insurance-panda/auto-insurance-mcp",
+  "repository": "https://github.com/insurance-panda/auto-insurance-mcp",
+  "license": "MIT",
+  "keywords": ["auto insurance", "car insurance", "state minimums", "mcp", "open data"]
+}
