@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.insurance-panda/auto-insurance-mcp",
+  "title": "Insurance Panda: US Auto Insurance Minimums",
+  "description": "2026 US state minimum auto insurance requirements for all 50 states and D.C., plus coverage guides.",
+  "repository": {
+    "url": "https://github.com/insurance-panda/auto-insurance-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://www.insurancepanda.com/",
+  "version": "1.0.1",
+  "packages": [
+    {
+      "registryType": "mcpb",
+      "identifier": "https://github.com/insurance-panda/auto-insurance-mcp/releases/download/v1.0.1/auto-insurance-mcp.mcpb",
+      "fileSha256": "c73fb9e14c8a48db6f3b4c4df8fc331b486128a6a5fb7da991778bffa9256fa4",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
