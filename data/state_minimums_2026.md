@@ -1,6 +1,6 @@
 # US State Minimum Auto Insurance Requirements (2026)
 
-Published by [Insurance Panda](https://www.insurancepanda.com/) | Reference data verified November 2026 via [Insure.com](https://www.insure.com/car-insurance/minimum-coverage-levels.html).
+Published by [Insurance Panda](https://www.insurancepanda.com/) | Reference data verified November 26, 2026 via [Insure.com](https://www.insure.com/car-insurance/minimum-coverage-levels.html).
 
 > **Disclaimer:** For consumer education only. Always confirm current legal minimums with your state DMV or Department of Insurance. Insurance Panda is an independent comparison and education service, not an insurance company or underwriter.
 
@@ -15,9 +15,9 @@ Published by [Insurance Panda](https://www.insurancepanda.com/) | Reference data
 | Connecticut | CT | Yes | 25/50/25 ($25,000 / $50,000 / $25,000) | UM/UIM BI: $25,000/$50,000 |  |
 | Delaware | DE | Yes | 25/50/10 ($25,000 / $50,000 / $10,000) | PIP: $15,000 per person / $30,000 per accident |  |
 | District of Columbia | DC | Yes | 25/50/10 ($25,000 / $50,000 / $10,000) | UM BI: $25,000/$50,000; UMPD: $5,000 |  |
-| Florida | FL | Yes | 10/20/10 ($10,000 / $20,000 / $10,000) | PIP: $10,000 | Standard registration requires $10,000 PIP and $10,000 PD; 10/20 BI applies under Financial Responsibility Law. |
+| Florida | FL | Yes | 0/0/10 ($0 / $0 / $10,000) | PIP: $10,000 | Bodily injury liability isn't required to register most private passenger vehicles. After certain crashes or violations, drivers must show 10/20/10 under the Financial Responsibility Law, or 100/300/50 (FR-44) after a DUI. |
 | Georgia | GA | Yes | 25/50/25 ($25,000 / $50,000 / $25,000) | Not required |  |
-| Hawaii | HI | Yes | 20/40/10 ($20,000 / $40,000 / $10,000) | PIP: $10,000 |  |
+| Hawaii | HI | Yes | 40/80/20 ($40,000 / $80,000 / $20,000) | PIP: $10,000 | Limits increased from 20/40/10 to 40/80/20 for policies effective on or after January 1, 2026. |
 | Idaho | ID | Yes | 25/50/15 ($25,000 / $50,000 / $15,000) | Not required |  |
 | Illinois | IL | Yes | 25/50/20 ($25,000 / $50,000 / $20,000) | UM BI: $25,000/$50,000; UMPD: $5,000 |  |
 | Indiana | IN | Yes | 25/50/25 ($25,000 / $50,000 / $25,000) | Not required |  |
@@ -27,7 +27,7 @@ Published by [Insurance Panda](https://www.insurancepanda.com/) | Reference data
 | Louisiana | LA | Yes | 15/30/25 ($15,000 / $30,000 / $25,000) | Not required |  |
 | Maine | ME | Yes | 50/100/25 ($50,000 / $100,000 / $25,000) | MedPay: $2,000; UM BI: $50,000/$100,000 |  |
 | Maryland | MD | Yes | 30/60/15 ($30,000 / $60,000 / $15,000) | UM BI: $30,000/$60,000; UMPD: $15,000 |  |
-| Massachusetts | MA | Yes | 25/50/30 ($25,000 / $50,000 / $30,000) | UM/UIM BI: $20,000/$40,000; PIP: $8,000 | Limits updated in 2025 to 25/50/30. |
+| Massachusetts | MA | Yes | 25/50/30 ($25,000 / $50,000 / $30,000) | UM BI: $25,000/$50,000; PIP: $8,000 | Limits increased July 1, 2025 to 25/50/30; uninsured auto bodily injury rose from 20/40 to 25/50. |
 | Michigan | MI | Yes | 50/100/10 ($50,000 / $100,000 / $10,000) | Property Protection: $1,000,000; PIP: $250,000 (standard tier) |  |
 | Minnesota | MN | Yes | 30/60/10 ($30,000 / $60,000 / $10,000) | UM/UIM BI: $25,000/$50,000; PIP: $40,000 |  |
 | Mississippi | MS | Yes | 25/50/25 ($25,000 / $50,000 / $25,000) | Not required |  |
