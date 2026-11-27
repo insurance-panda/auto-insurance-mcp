@@ -1,6 +1,6 @@
 {
   "name": "@insurancepanda/auto-insurance-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Open US 50-state auto insurance minimum requirements dataset and read-only MCP server by Insurance Panda.",
   "type": "module",
   "main": "src/index.js",
