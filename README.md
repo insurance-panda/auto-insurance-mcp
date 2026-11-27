@@ -1,5 +1,7 @@
 # Insurance Panda — US Auto Insurance Minimums Dataset & MCP Server
 
+[![insurance-panda/auto-insurance-mcp MCP server](https://glama.ai/mcp/servers/insurance-panda/auto-insurance-mcp/badges/score.svg)](https://glama.ai/mcp/servers/insurance-panda/auto-insurance-mcp)
+
 An open, structured **2026 US 50-state + D.C. minimum car insurance requirements dataset** (JSON, CSV, and Markdown) paired with a zero-dependency, read-only **Model Context Protocol (MCP) server** maintained by [Insurance Panda](https://www.insurancepanda.com/).
 
 > **Disclaimer:** Insurance Panda is an independent auto insurance comparison and driver education service, not an insurance company or underwriter. Statutory requirements change—always confirm current legal minimums with your state DMV or Department of Insurance.
