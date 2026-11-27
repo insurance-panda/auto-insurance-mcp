@@ -25,7 +25,7 @@ const guideData = JSON.parse(
 
 const SERVER_INFO = {
   name: "insurance-panda-mcp",
-  version: "1.0.0",
+  version: "1.0.1",
 };
 
 const PROTOCOL_VERSION = "2024-11-05";
